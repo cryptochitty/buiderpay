@@ -14,5 +14,13 @@
     "wallet": "0xabcdef123456789...",
     "project": "GreenNode",
     "image": "https://via.placeholder.com/300"
+  },
+  {
+    "id": 3,
+    "name": "Mohamed Mafaz P R",
+    "bio": "UX Designer & Web Developer Intern @ Anavara Ltd | India Skills 2024 Silver Medalist (ITSSB) | CSE Student @ Anna University | Website Admin @ PHSS Alumni | 3+ Years of IT Work Experience",
+    "wallet": "placeholder",
+    "project": "Builder Pay",
+    "image": "https://media.licdn.com/dms/image/v2/D5603AQEnS5mWRdbvkg/profile-displayphoto-shrink_400_400/B56ZRBYhReHoAk-/0/1736263734865?e=1755734400&v=beta&t=My9Uk8yKbtQ-Lx7c6YmfsB38Kd6rnVQsoiEWiI7yiVM"
   }
 ]
